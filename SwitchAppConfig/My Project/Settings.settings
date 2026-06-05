@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles />
+  <Settings>
+    <Setting Name="LastConfigPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LastCustomServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DOM</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
